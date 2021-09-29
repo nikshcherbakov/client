@@ -1,7 +1,7 @@
-package com.nikshcherbakov.client.debug;
+package com.nikshcherbakov.clientapp.debug;
 
+import com.nikshcherbakov.clientapp.myapi.MyApiClient;
 import com.nikshcherbakov.api.dto.ObjectDto;
-import com.nikshcherbakov.client.myapi.MyApiClient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
